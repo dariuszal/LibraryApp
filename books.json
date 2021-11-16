@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Notabooktbh",
+    "author": "notreallyanauthor",
+    "category": "Sci-fi",
+    "language": "English",
+    "publicationDate": {
+      "year": 2016,
+      "month": 8,
+      "day": 28
+    },
+    "isbn": "863-0-00749-085-5",
+    "uuid": "3522c139-7855-49b1-aa0c-3af059057c8b",
+    "isAvailable": true
+  },
+  {
+    "name": "TestBook1",
+    "author": "Tester363",
+    "category": "Horror",
+    "language": "Russian",
+    "publicationDate": {
+      "year": 2001,
+      "month": 11,
+      "day": 6
+    },
+    "isbn": "978-1-60309-025-4",
+    "uuid": "2ee9c161-7297-4d5c-9556-6e7cda2fd5e5",
+    "isAvailable": false,
+    "takenBy": "b2665545-74d4-4dd5-9824-fb69aaea783d"
+  },
+  {
+    "name": "MockBook",
+    "author": "MockAuthor",
+    "category": "Romance",
+    "language": "English",
+    "publicationDate": {
+      "year": 2000,
+      "month": 10,
+      "day": 16
+    },
+    "isbn": "468-1-60869-025-1",
+    "uuid": "9df264ba-c995-4849-ab9c-468fef1f7944",
+    "isAvailable": false,
+    "takenBy": "b2665545-74d4-4dd5-9824-fb69aaea783d"
+  }
+]

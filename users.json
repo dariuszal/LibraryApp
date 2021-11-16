@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b2665545-74d4-4dd5-9824-fb69aaea783d",
+    "firstName": "User1",
+    "lastName": "Testlastname",
+    "email": "user1@hotmail.com",
+    "books": [
+      "2ee9c161-7297-4d5c-9556-6e7cda2fd5e5",
+      "9df264ba-c995-4849-ab9c-468fef1f7944"
+    ]
+  }
+]
